@@ -9,7 +9,7 @@ function Main() {
             <div className='flex-1 rounded-lg shadow-md bg-[url(https://static.scientificamerican.com/sciam/cache/file/6B2730C8-B0D0-485F-A0618F3954CF58D8_source.jpg?w=1200)] bg-cover'>
             <MainInfo />
             </div>
-            <div className='bg-neutral-200 h-1/4 rounded-lg'>
+            <div className='bg-neutral-200 rounded-lg'>
                 <Forecast />
             </div>
         </div>
